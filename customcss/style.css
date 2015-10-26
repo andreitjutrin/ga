@@ -1,0 +1,20 @@
+/* Custom css for tree*/
+.main-container{ margin:20px auto; }
+.container{ margin:30px auto; }
+.width90{ width:900px}
+.bg-grey{ background:#fff; padding-top: 15px;border-radius: 5px;}
+.width100{ width:100%}
+.one-fourth{ width:25%; float:left}
+.text-center{ text-align:center}
+.pull-left{ float:left}
+.pull-right{ float:right}
+.one-half{ width:50%}
+.one-third{ width:33.3333%}
+.box-border-left{-webkit-box-sizing:border-box; border-left:2px solid #444; }
+.box-border-right{-webkit-box-sizing:border-box; border-right:2px solid #444;}
+.box-border-top{-webkit-box-sizing:border-box; border-top:2px solid #444}
+.box-border-bottom{-webkit-box-sizing:border-box; border-bottom:2px solid #444}
+.height20{ height:20px}
+.NoMargin{ margin: 0 auto}
+.Font-Tree{ font-size:12px; font-family:Arial; color:#454545}
+
